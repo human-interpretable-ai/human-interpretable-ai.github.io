@@ -176,10 +176,7 @@ To fascilitate with this process, we will use OpenReview to manage the
 submission and review process, guaranteeing that final decisions are made without
 any conflicts of interest.
 
-### Submission Link
-
-You can submit your paper at the following [link](todo).
-
+<button type="submit" onclick="window.open('https://openreview.net/', '_blank')">Submit your paper</button>
 
 ## Publication
 
