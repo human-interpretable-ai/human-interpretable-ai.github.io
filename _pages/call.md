@@ -6,6 +6,51 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+    .button-submit {
+    align-items: center;
+    appearance: none;
+    background-color: #3EB2FD;
+    background-image: linear-gradient(1deg, #4F58FD, #149BF3 99%);
+    background-size: calc(100% + 20px) calc(100% + 20px);
+    border-radius: 100px;
+    border-width: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: CircularStd,sans-serif;
+    font-size: 1rem;
+    height: auto;
+    justify-content: center;
+    line-height: 1.5;
+    padding: 6px 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .2s,background-position .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: top;
+    white-space: nowrap;
+    }
+
+    .button-submit:active,
+    .button-submit:focus {
+    outline: none;
+    }
+
+    .button-submit:hover {
+    background-position: -20px -20px;
+    }
+
+    .button-submit:focus:not(:active) {
+    box-shadow: rgba(40, 170, 255, 0.25) 0 0 0 .125em;
+    }
+</style>
+
 <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 <script src="https://icml.cc/static/core/js/jquery.countdown.min.js"  charset="utf-8"></script>
 
@@ -167,6 +212,9 @@ ensure reproducibility.
 All paper submissions should follow the ACM format used for
 KDD described [here](https://kdd2024.kdd.org/research-track-call-for-papers/).
 
+<div style="text-align: center; margin: auto; padding-top: 3%; padding-bottom: 3%;">
+    <button class="button-submit" role="button" type="submit" onclick="window.open('https://openreview.net/', '_blank')">Submit your paper</button>
+</div>
 
 ### Review Process
 
@@ -176,7 +224,6 @@ To fascilitate with this process, we will use OpenReview to manage the
 submission and review process, guaranteeing that final decisions are made without
 any conflicts of interest.
 
-<button type="submit" onclick="window.open('https://openreview.net/', '_blank')">Submit your paper</button>
 
 ## Publication
 
