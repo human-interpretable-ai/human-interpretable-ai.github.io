@@ -17,15 +17,14 @@ description:
 
 ## Introduction and Goals
 
-As deep neural networks have become a fundamental building block in recent Artificial Intelligence (AI) systems, there has been a sharp increase in attempts to explain these opaque models. Human-Interpretable AI (HI-AI), a sub-field in explainable AI (XAI), is emerging as a promising direction. Indeed, several papers highlighted several limitations regarding standard XAI methods, including the difficulty in understanding explanations at the feature level. In contrast, HI methods aim to provide explanations that are more understandable, plausible and useful for humans than standard XAI methods. At their core, HI-AI methods either extract the symbols the network has automatically learned in a post-hoc manner or employ an intermediate high-level representation from which they can predict a downstream task.
-
-This workshop aims to spearhead research on HI-AI by:
+As deep neural networks have become a fundamental building block in recent Artificial Intelligence (AI) systems, there has been a sharp increase in attempts to explain these notoriously opaque models. Human-Interpretable AI (HI-AI), a sub-field in explainable AI (XAI), is emerging as a promising direction where methods aim to construct explanations using representations that are aligned to high-level
+human-understandable concepts or symbols rather than low-level representations (e.g., pixels/saliency maps). This workshop aims to spearhead research on topics within HI-AI by:
 
 - providing a general overview of the key aspects of HI-AI to equip all researchers with the necessary background and definitions.
 - running a call for papers for researchers in fields related to HI-AI to present their works as part of our poster session and have the opportunity to include these works in workshop proceedings (details can be found in our [call for papers](/call)).
 - creating a space for active researchers in HI-AI to share and discuss novel ideas through invited keynote talks and contributing talks from a selected number of accepted papers.
 
-We welcome contributions covering novel post-hoc explainability or interpretable-by-design approaches and theoretical analysis of existing works. Additionally, visionary contributions speculating on the future potential of this field will be highly encouraged. Finally, we welcome contributions from related fields such as ethical AI, knowledge-driven machine learning, human-machine interaction, applications in medicine and industry, and analyses from regulatory experts.
+We welcome contributions covering novel post-hoc explainability or interpretable-by-design approaches and theoretical analysis of existing works. Additionally, position contributions speculating on the future potential of this field are highly encouraged. Finally, we welcome contributions from related fields such as ethical AI, knowledge-driven machine learning, human-machine interaction, applications in medicine and industry, and analyses from regulatory experts.
 
 ## Key Details
 
