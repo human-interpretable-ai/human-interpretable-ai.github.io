@@ -5,8 +5,7 @@
 title: "Workshop on Human-Interpretable AI"
 email: me466@cam.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Project website for the 1st Workshop on Human-Interpratable AI to be held at
-  KDD 2025.
+  The 1st Workshop on Human-Interpratable AI to be held at KDD 2024.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Inspired by the NeurIPS'22 Workshop on SBMs' <a href="https://score-based-methods-workshop.github.io/" target="_blank">site</a>.
