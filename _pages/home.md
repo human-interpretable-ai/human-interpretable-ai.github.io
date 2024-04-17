@@ -44,12 +44,12 @@ that will be held in Barcelona, Spain <b>from Sunday 25<sup>th</sup> of August 2
 until Thursday 29<sup>th</sup> of August 2024</b>. To attend the workshop you will need
 a single day registration for the day of the workshop (August 26<sup>th</sup>)
 or a full conference registration. Please look at registration details, including
-costs, in the [official registration site](https://kdd2024.kdd.org/registration/).
+costs, on the [official registration site](https://kdd2024.kdd.org/registration/).
 
-We recommend potential attendees to register early to the conferences as
+We recommend potential attendees to register early to the conference as
 (1) the "early bird" registration price ends on July 10<sup>th</sup> AoE, and
-(2), if you need a Schengen visa, it is recommended to apply this visa as early
-as possible to guarantee the visa's arival before the workshop start date.
+(2), if you need a Schengen visa, it is recommended to apply for this visa as
+early as possible to guarantee the visa's arival before the workshop start date.
 Notice that you <b>do not need to submit a paper to attend our workshop</b>!
 
 ## Keynote Speakers
@@ -82,7 +82,7 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
       <div class="col-sm-4">
           {% include people.html name="Tania Cerquitelli" affiliation="Politecnico di Torino" url="https://www.polito.it/en/staff?p=tania.cerquitelli" img="/assets/img/people/tania.jpg" %}
       </div>
-    
+
   </div>
 
 
