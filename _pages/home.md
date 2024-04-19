@@ -72,16 +72,16 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
         {% include people.html name="Pietro Barbiero" affiliation="Università della Svizzera Italiana" url="https://www.pietrobarbiero.eu/" img="/assets/img/people/pietro.jpeg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="Zohreh Shams" affiliation="Builder.ai / University of Cambridge" url="https://zohrehshams.com/" img="/assets/img/people/zohreh.webp" %}
+          {% include people.html name="Zohreh Shams" affiliation="Builder.ai / University of Cambridge" url="https://zohrehshams.com/" img="/assets/img/people/zohreh-resized.jpg" %}
       </div>
       <div class="col-sm-4">
           {% include people.html name="Francesco Giannini" affiliation="CINI" url="https://sailab.diism.unisi.it/people/francesco-giannini/" img="/assets/img/people/francesco.jpeg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="Damien Garreau" affiliation="Julius-Maximilians-Universität Würzburg" url="https://sites.google.com/view/damien-garreau/home" img="/assets/img/people/damien.jpeg" %}
+          {% include people.html name="Damien Garreau" affiliation="Julius-Maximilians-Universität Würzburg" url="https://sites.google.com/view/damien-garreau/home" img="/assets/img/people/damien-resized.jpeg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="Mateja Jamnik" affiliation="University of Cambridge" url="http://www.cl.cam.ac.uk/~mj201" img="/assets/img/people/mateja.jpeg" %}
+          {% include people.html name="Mateja Jamnik" affiliation="University of Cambridge" url="http://www.cl.cam.ac.uk/~mj201" img="/assets/img/people/mateja-resized.jpeg" %}
       </div>
       <div class="col-sm-4">
           {% include people.html name="Tania Cerquitelli" affiliation="Politecnico di Torino" url="https://www.polito.it/en/staff?p=tania.cerquitelli" img="/assets/img/people/tania.jpg" %}
