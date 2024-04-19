@@ -213,7 +213,7 @@ All paper submissions should follow the ACM format used for
 KDD described [here](https://kdd2024.kdd.org/research-track-call-for-papers/).
 
 <div style="text-align: center; margin: auto; padding-top: 3%; padding-bottom: 3%;">
-    <button class="button-submit" role="button" type="submit" onclick="window.open('https://openreview.net/', '_blank')">Submit your paper</button>
+    <button class="button-submit" role="button" type="submit" onclick="window.open('https://openreview.net/group?id=KDD.org/2024/Workshop/HI-AI', '_blank')">Submit your paper</button>
 </div>
 
 ### Review Process

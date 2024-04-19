@@ -36,6 +36,10 @@ The following are key details and dates for this workshop:
 - **Modality**: In-person half-day event.
 - **Paper Submission Deadline**: All papers for our call must be submitted by May 28th, 2024, 11:59 pm Anywhere on Earth (AOE). Please refer to our official [Call for Papers](/call) for details.
 
+<div style="text-align: center; margin: auto; padding-top: 3%; padding-bottom: 3%;">
+    <button class="button-submit" role="button" type="submit" onclick="window.open('https://openreview.net/group?id=KDD.org/2024/Workshop/HI-AI', '_blank')">Submit your paper</button>
+</div>
+
 ## Attending the Workshop
 
 The workshop is organized as a part of the 30<sup>th</sup> ACM SIGKDD
