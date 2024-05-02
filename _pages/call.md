@@ -56,9 +56,10 @@ nav_order: 1
 
 # Call for Papers
 
-We invite researchers working on topics related to Human-Interpretable AI (HI-AI)
-to submit short research papers describing new contributions or positions. Below,
-we describe topics within HI-AI for which we will accept submissions, as well as
+In this workshop, we invite researchers working on topics related to Human-Interpretable AI (HI-AI) to 
+submit short research papers (up to six pages) describing new contributions, position papers as well 
+as already published paper in top conference of the field. 
+Below, we describe topics within HI-AI for which we will accept submissions, as well as
 the submission format and instructions. Please read this page carefully before
 submitting to ensure your submission is aligned with this workshop’s objectives
 and guidelines.
@@ -217,27 +218,30 @@ All paper submissions should follow the <b>CEUR-WS</b> format of the HI-AI works
 
 ### Review Process
 
-All submissions will be peer-reviwed through a double-blinded process. Therefore,
-authors must ensure that their submissions are <b>properly anonymized</b>.
-To fascilitate with this process, we will use OpenReview to manage the
-submission and review process, guaranteeing that final decisions are made without
+All submissions will be peer-reviewed through a double-blinded process. Therefore, 
+authors must ensure that their submissions are <b>properly anonymized</b>. 
+To facilitate this process, we will use OpenReview to manage the 
+submission and review process, guaranteeing that final decisions are made without 
 any conflicts of interest.
 
 
 ## Publication
 
-All papers accepted for the workshop will be published on the official workshop
-website, ensuring they remain available and accessible beyond the duration of
-the conference. <b>For the authors interested in an archival version</b>,
-arrangements have been made with the external editor CEUR.WS to provide this
+All papers accepted for the workshop will be published on the official workshop 
+website, ensuring they remain available and accessible beyond the duration of 
+the conference. <b>For authors interested in an archival version</b>, 
+arrangements have been made with the external editor CEUR.WS to provide this 
 service. This, however, is optional, and authors may opt out of having their
-paper included in these proceedings if they wish to submit part of their
-submission to future archived venues. Furthermore, we will consider an extension
+paper included in these proceedings if they wish to submit part of their 
+submission to future archived venues. Furthermore, we will consider an extension 
 of some of the top accepted papers for a special issue on the workshop's topic.
 
 ## Attendance
 
-For each accepted paper, at least one author must attend the conference to
-present a poster for the paper. Moreover, a small number of papers will be given
-the opportunity to be presented as a short contributing talk in
-our workshop.
+For each accepted paper, at least one author must attend the conference to present a poster for the paper. 
+Moreover, a small number of papers will be given the opportunity to be presented as a short contributing 
+talk in our workshop. Please consider that KDD offer the possibility to participate only to the workshop 
+by means of the one-day pass ticket. You will also have the opportunity to meet leading experts in the 
+field who will provide different invited speeches during the workshop.
+
+
