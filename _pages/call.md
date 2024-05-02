@@ -193,8 +193,8 @@ will then evaluate whether it may be still considered.
 
 ## Submission Guidelines
 
-Authors are invited to submit short papers, limited to <b>six pages excluding
-references and an optional appendix</b>. Submissions include <b>new research
+Authors are invited to submit short papers, limited to <b>six pages</b> excluding
+references and an optional appendix. Submissions include <b>new research
 papers</b> presenting novel findings and/or theoretical analyses, as well as
 <b>position papers</b> aimed at starting an active discussion on topics related
 to HI-AI. We also welcome summaries of <b>already published papers</b> from
@@ -209,7 +209,7 @@ reviewers may only read through part of the Appendix.
 For papers presenting novel empirical results, we kindly ask authors to
 provide access to the code and data underpinning their work (when possible) to
 ensure reproducibility.
-All paper submissions should follow the CEUR-WS format of the HI-AI workshop that you can find [here](https://human-interpretable-ai.github.io/latex-template/HI-AI-template.zip).
+All paper submissions should follow the <b>CEUR-WS</b> format of the HI-AI workshop that you can find [here](https://human-interpretable-ai.github.io/latex-template/HI-AI-template.zip).
 
 <div style="text-align: center; margin: auto; padding-top: 3%; padding-bottom: 3%;">
     <button class="button-submit" role="button" type="submit" onclick="window.open('https://openreview.net/group?id=KDD.org/2024/Workshop/HI-AI', '_blank')">Submit your paper</button>
