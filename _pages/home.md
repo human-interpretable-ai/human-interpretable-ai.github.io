@@ -58,7 +58,9 @@ description:
 
   Centre de Convencions Internacional de Barcelona, Spain<br>
 
-  August 26<sup>th</sup>, 2024<br><br>
+  August 26<sup>th</sup>, 2024<br>
+
+  Call for papers deadline: June 14<sup>th</sup>, 2024<br><br>
 </div>
 
 ## Introduction and Goals
@@ -80,7 +82,7 @@ The following are key details and dates for this workshop:
 - **Conference**: The 30th ACM SIGKDD Conference on [Knowledge Discovery and Data Mining (KDD)](https://kdd2024.kdd.org/).
 - **Location**: [Centre de Convencions Internacional de Barcelona, Barcelona, Spain](https://ccib.es/).
 - **Modality**: In-person half-day event.
-- **Paper Submission Deadline**: All papers for our call must be submitted by May 28th, 2024, 11:59 pm Anywhere on Earth (AOE). Please refer to our official [Call for Papers](/call) for details.
+- **Paper Submission Deadline**: All papers for our call must be submitted by <s>May 28th, 2024</s> <b>June 14th, 2024</b>, 11:59 pm Anywhere on Earth (AOE). Please refer to our official [Call for Papers](/call) for details.
 
 <div style="text-align: center; margin: auto; padding-top: 3%; padding-bottom: 3%;">
     <button class="button-submit" role="button" type="submit" onclick="window.open('https://openreview.net/group?id=KDD.org/2024/Workshop/HI-AI', '_blank')">Submit your paper</button>

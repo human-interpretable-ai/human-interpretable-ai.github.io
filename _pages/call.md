@@ -56,9 +56,9 @@ nav_order: 1
 
 # Call for Papers
 
-In this workshop, we invite researchers working on topics related to Human-Interpretable AI (HI-AI) to 
-submit short research papers (up to six pages) describing new contributions, position papers as well 
-as already published paper in top conference of the field. 
+In this workshop, we invite researchers working on topics related to Human-Interpretable AI (HI-AI) to
+submit short research papers (up to six pages) describing new contributions, position papers as well
+as already published paper in top conference of the field.
 Below, we describe topics within HI-AI for which we will accept submissions, as well as
 the submission format and instructions. Please read this page carefully before
 submitting to ensure your submission is aligned with this workshop’s objectives
@@ -69,6 +69,10 @@ and guidelines.
 Following are the proposed important dates for the workshop. All deadlines are
 due 11:59 pm Anywhere on Earth (AOE).
 
+Please note that, given concurrent deadlines
+for other conferences and workshops, we have <b>extended our submission deadline
+to June 14th, AOE</b>.
+
 <table class="table table-condensed datesummary">
     <col width="auto">
         <tr class="gray">
@@ -76,13 +80,13 @@ due 11:59 pm Anywhere on Earth (AOE).
                 <b>Paper submission deadline</b>
             </td>
             <td>
-                <span class='gray'>May 28th, 2024</span>
+                <span class='gray'><s>May 28th, 2024</s> June 14th, 2024</span>
             </td>
             <td>
                 <span class="submission-countdown"></span>
                 <script >
                     if ("submission" != "") {
-                            var submission = "2024/05/28 23:59:59 UTC";
+                            var submission = "2024/06/14 23:59:59 UTC";
                         $('.submission-countdown').countdown(submission, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -96,13 +100,13 @@ due 11:59 pm Anywhere on Earth (AOE).
                 <b>Review period begins</b>
             </td>
             <td>
-                <span class='gray'> May 29th, 2024</span>
+                <span class='gray'> <s>May 29th, 2024</s> June 15th, 2024</span>
             </td>
             <td>
                 <span class="reviewbegins-countdown"></span>
                 <script >
                     if ("reviewbegins" != "") {
-                            var reviewbegins = "2024/05/29 23:59:59 UTC";
+                            var reviewbegins = "2024/06/15 23:59:59 UTC";
                         $('.reviewbegins-countdown').countdown(reviewbegins, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -116,13 +120,13 @@ due 11:59 pm Anywhere on Earth (AOE).
                 <b>Review period ends</b>
             </td>
             <td>
-                <span class='gray'> June 27th, 2024</span>
+                <span class='gray'> June 30th, 2024</span>
             </td>
             <td>
                 <span class="reviewends-countdown"></span>
                 <script >
                     if ("reviewends" != "") {
-                            var reviewends = "2024/06/27 23:59:59 UTC";
+                            var reviewends = "2024/06/30 23:59:59 UTC";
                         $('.reviewends-countdown').countdown(reviewends, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -136,13 +140,13 @@ due 11:59 pm Anywhere on Earth (AOE).
                 <b>Notification of decision</b>
             </td>
             <td>
-                <span class='gray'> June 28th, 2024</span>
+                <span class='gray'> Ausgust 1st, 2024</span>
             </td>
             <td>
                 <span class="decision-countdown"></span>
                 <script >
                     if ("decision" != "") {
-                            var decision = "2024/06/28 23:59:59 UTC";
+                            var decision = "2024/07/01 23:59:59 UTC";
                         $('.decision-countdown').countdown(decision, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -218,30 +222,30 @@ All paper submissions should follow the <b>CEUR-WS</b> format of the HI-AI works
 
 ### Review Process
 
-All submissions will be peer-reviewed through a double-blinded process. Therefore, 
-authors must ensure that their submissions are <b>properly anonymized</b>. 
-To facilitate this process, we will use OpenReview to manage the 
-submission and review process, guaranteeing that final decisions are made without 
+All submissions will be peer-reviewed through a double-blinded process. Therefore,
+authors must ensure that their submissions are <b>properly anonymized</b>.
+To facilitate this process, we will use OpenReview to manage the
+submission and review process, guaranteeing that final decisions are made without
 any conflicts of interest.
 
 
 ## Publication
 
-All papers accepted for the workshop will be published on the official workshop 
-website, ensuring they remain available and accessible beyond the duration of 
-the conference. <b>For authors interested in an archival version</b>, 
-arrangements have been made with the external editor CEUR.WS to provide this 
+All papers accepted for the workshop will be published on the official workshop
+website, ensuring they remain available and accessible beyond the duration of
+the conference. <b>For authors interested in an archival version</b>,
+arrangements have been made with the external editor CEUR.WS to provide this
 service. This, however, is optional, and authors may opt out of having their
-paper included in these proceedings if they wish to submit part of their 
-submission to future archived venues. Furthermore, we will consider an extension 
+paper included in these proceedings if they wish to submit part of their
+submission to future archived venues. Furthermore, we will consider an extension
 of some of the top accepted papers for a special issue on the workshop's topic.
 
 ## Attendance
 
-For each accepted paper, at least one author must attend the conference to present a poster for the paper. 
-Moreover, a small number of papers will be given the opportunity to be presented as a short contributing 
-talk in our workshop. Please consider that KDD offer the possibility to participate only to the workshop 
-by means of the one-day pass ticket. You will also have the opportunity to meet leading experts in the 
+For each accepted paper, at least one author must attend the conference to present a poster for the paper.
+Moreover, a small number of papers will be given the opportunity to be presented as a short contributing
+talk in our workshop. Please consider that KDD offer the possibility to participate only to the workshop
+by means of the one-day pass ticket. You will also have the opportunity to meet leading experts in the
 field who will provide different invited speeches during the workshop.
 
 
