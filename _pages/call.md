@@ -140,7 +140,7 @@ to June 14th, AOE</b>.
                 <b>Notification of decision</b>
             </td>
             <td>
-                <span class='gray'> Ausgust 1st, 2024</span>
+                <span class='gray'> July 1st, 2024</span>
             </td>
             <td>
                 <span class="decision-countdown"></span>
