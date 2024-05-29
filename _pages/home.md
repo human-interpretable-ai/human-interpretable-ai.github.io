@@ -51,6 +51,45 @@ description:
     .button-submit:focus:not(:active) {
     box-shadow: rgba(40, 170, 255, 0.25) 0 0 0 .125em;
     }
+    .logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;     /* vertical centering   */
+    }
+
+    /* Create four equal columns that sits next to each other */
+    .logo-column {
+    flex: 25%;
+    max-width: 40%;
+    padding: 0 20px;
+    }
+
+    .logo-column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    }
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 800px) {
+    .logo-column {
+        flex: 50%;
+        max-width: 50%;
+    }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+    .logo-column {
+        flex: 100%;
+        max-width: 100%;
+    }
+    }
 </style>
 
 <div style="margin: auto; text-align: center;">
@@ -136,6 +175,22 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
       </div>
 
   </div>
+
+## Sponsors
+We are proud and grateful to have the following organizations as sponsors of our workshop:
+
+<div class="logo-row">
+    <div class="logo-column">
+        <a href="https://tailor-network.eu/" rel="external nofollow noopener" target="_blank"><img src="/assets/img/logo_TAILOR.jpeg"></a>
+    </div>
+    <div class="logo-column">
+         <a href="https://fondazione-fair.it/en/" rel="external nofollow noopener" target="_blank"><img src="/assets/img/logo_FAIR_cropped.jpeg"></a>
+    </div>
+</div>
+<br>
+In particular, we would like to acknowledge that this workshop has been partially
+supported by the <b>Partnership Extended PE00000013 - “FAIR - Future Artificial Intelligence Research” -
+Spoke 1 “Human-centered AI”</b>.
 
 
 ## Contact
