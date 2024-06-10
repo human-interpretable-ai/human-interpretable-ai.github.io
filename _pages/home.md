@@ -162,7 +162,7 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
           {% include people.html name="Zohreh Shams" affiliation="Builder.ai / University of Cambridge" url="https://zohrehshams.com/" img="/assets/img/people/zohreh-resized.jpg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="Francesco Giannini" affiliation="CINI" url="https://sailab.diism.unisi.it/people/francesco-giannini/" img="/assets/img/people/francesco.jpeg" %}
+          {% include people.html name="Francesco Giannini" affiliation="Scuola Normale Superiore <br> Consorzio Interuniversitario Nazionale per l'Informatica" url="https://www.francescogiannini.eu/" img="/assets/img/people/francesco.jpeg" %}
       </div>
       <div class="col-sm-4">
           {% include people.html name="Damien Garreau" affiliation="Julius-Maximilians-Universität Würzburg" url="https://sites.google.com/view/damien-garreau/home" img="/assets/img/people/damien-resized.jpeg" %}
