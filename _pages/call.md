@@ -86,7 +86,7 @@ to June 14th, AOE</b>.
                 <span class="submission-countdown"></span>
                 <script >
                     if ("submission" != "") {
-                            var submission = "2024/06/14 23:59:59 AoE";
+                            var submission = "2024/06/15 11:59:59 UTC";
                         $('.submission-countdown').countdown(submission, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -106,7 +106,7 @@ to June 14th, AOE</b>.
                 <span class="reviewbegins-countdown"></span>
                 <script >
                     if ("reviewbegins" != "") {
-                            var reviewbegins = "2024/06/15 23:59:59 AoE";
+                            var reviewbegins = "2024/06/16 11:59:59 UTC";
                         $('.reviewbegins-countdown').countdown(reviewbegins, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -126,7 +126,7 @@ to June 14th, AOE</b>.
                 <span class="reviewends-countdown"></span>
                 <script >
                     if ("reviewends" != "") {
-                            var reviewends = "2024/06/30 23:59:59 AoE";
+                            var reviewends = "2024/07/01 11:59:59 UTC";
                         $('.reviewends-countdown').countdown(reviewends, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -146,7 +146,7 @@ to June 14th, AOE</b>.
                 <span class="decision-countdown"></span>
                 <script >
                     if ("decision" != "") {
-                            var decision = "2024/07/01 23:59:59 AoE";
+                            var decision = "2024/07/02 11:59:59 UTC";
                         $('.decision-countdown').countdown(decision, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
@@ -166,7 +166,7 @@ to June 14th, AOE</b>.
                 <span class="camera-countdown"></span>
                 <script >
                     if ("camera" != "") {
-                            var camera = "2024/07/27 23:59:59 AoE";
+                            var camera = "2024/07/28 11:59:59 UTC";
                         $('.camera-countdown').countdown(camera, function (event) {
                         $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
 
