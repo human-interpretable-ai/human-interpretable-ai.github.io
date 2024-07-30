@@ -189,6 +189,7 @@ We are proud and grateful to have the following organizations as sponsors of our
 </div>
 <br>
 In particular, we would like to acknowledge that this workshop has been partially
+supported by <b>TAILOR project funded by EU Horizon 2020 under GA No 952215</b>. This workshop has also been partially
 supported by the <b>Partnership Extended PE00000013 - “FAIR - Future Artificial Intelligence Research” -
 Spoke 1 “Human-centered AI”</b>.
 
