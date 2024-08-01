@@ -186,6 +186,9 @@ We are proud and grateful to have the following organizations as sponsors of our
     <div class="logo-column">
          <a href="https://fondazione-fair.it/en/" rel="external nofollow noopener" target="_blank"><img src="/assets/img/logo_FAIR_cropped.jpeg"></a>
     </div>
+    <div class="logo-column">
+         <a href="https://about.google/intl/en-GB/" rel="external nofollow noopener" target="_blank"><img src="/assets/img/logo_google.png"></a>
+    </div>
 </div>
 <br>
 In particular, we would like to acknowledge that this workshop has been partially

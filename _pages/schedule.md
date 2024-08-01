@@ -22,7 +22,7 @@ All times below are in Central European Summer Time (CEST).
         <tr>
           <td>9:00 AM - 9:40 AM</td>
           <td>
-            <b>Keynote Talk</b>: <a href="https://disi.unitn.it/~teso/">Stefano Teso</a>
+            <b>Keynote Talk</b>: <a href="https://disi.unitn.it/~passerini/">Andrea Passerini</a>
           </td>
         </tr>
         <tr>
