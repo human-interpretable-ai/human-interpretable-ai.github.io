@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 description: ""
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 All times below are in Central European Summer Time (CEST).

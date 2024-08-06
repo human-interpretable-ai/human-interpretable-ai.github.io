@@ -3,7 +3,7 @@ layout: default
 permalink: /call/
 title: Call For Papers
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 <style>
