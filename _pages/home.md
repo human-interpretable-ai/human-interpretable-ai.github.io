@@ -145,7 +145,17 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
 
 ## Keynote Speakers
 
-<b> A complete list of keynote speakers will be confirmed in the upcoming weeks</b>
+<div class="row projects pt-1 pb-1">
+    <div class="col-sm-4">
+        {% include people.html name="Andrea Passerini" affiliation="University of Trento" url="https://disi.unitn.it/~passerini/" img="/assets/img/people/passerini.jpg" %}
+    </div>
+    <div class="col-sm-4">
+        {% include people.html name="Abbas Rahimi" affiliation="IBM Research Europe" url="https://research.ibm.com/people/abbas-rahimi" img="/assets/img/people/abbas.JPG" %}
+    </div>
+    <div class="col-sm-4">
+        {% include people.html name="Sonali Parbhoo" affiliation="Imperial College London" url="https://sites.google.com/view/sonali-parbhoo/home" img="/assets/img/people/sonali.jpg" %}
+    </div>
+</div>
 
 ## Organizers
   <div class="row projects pt-1 pb-1">
@@ -173,7 +183,6 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
       <div class="col-sm-4">
           {% include people.html name="Tania Cerquitelli" affiliation="Politecnico di Torino" url="https://www.polito.it/en/staff?p=tania.cerquitelli" img="/assets/img/people/tania.jpg" %}
       </div>
-
   </div>
 
 ## Sponsors

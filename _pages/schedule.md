@@ -22,7 +22,7 @@ All times below are in Central European Summer Time (CEST).
         <tr>
           <td>9:00 AM - 9:40 AM</td>
           <td>
-            <b>Keynote Talk</b>: <a href="https://disi.unitn.it/~passerini/">Andrea Passerini</a>
+            [<b>Keynote Talk</b>] "Reasoning shortcuts in neuro-symbolic models" - <a href="https://disi.unitn.it/~passerini/">Andrea Passerini</a>
           </td>
         </tr>
         <tr>
@@ -34,7 +34,7 @@ All times below are in Central European Summer Time (CEST).
         <tr>
           <td>10:00 AM - 10:40 AM</td>
           <td>
-            <b>Keynote Talk</b>: <a href="https://research.ibm.com/people/abbas-rahimi">Abbas Rahimi</a>
+            [<b>Keynote Talk</b>] "Neuro-vector-symbolic architectures for object-centric representations and reasoning" - <a href="https://research.ibm.com/people/abbas-rahimi">Abbas Rahimi</a>
           </td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ All times below are in Central European Summer Time (CEST).
         <tr>
           <td>11:30 AM - 12:10 PM</td>
           <td>
-            <b>Keynote Talk</b>: <a href="https://sites.google.com/view/sonali-parbhoo/home">Sonali Parbhoo</a>
+            [<b>Keynote Talk</b>] TBD - <a href="https://sites.google.com/view/sonali-parbhoo/home">Sonali Parbhoo</a>
           </td>
         </tr>
         <tr>
