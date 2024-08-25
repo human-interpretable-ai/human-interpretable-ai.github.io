@@ -46,7 +46,7 @@ All times below are in Central European Summer Time (CEST).
         <tr>
           <td>11:40 AM - 12:20 PM</td>
           <td>
-            [<b>Keynote Talk</b>] TBD - <a href="https://sites.google.com/view/sonali-parbhoo/home">Sonali Parbhoo</a>
+            [<b>Keynote Talk</b>] "Taking the Genie Out of the Bottle: Concept-Based Insights for AI Oversight" - <a href="https://sites.google.com/view/sonali-parbhoo/home">Sonali Parbhoo</a>
           </td>
         </tr>
         <tr>
