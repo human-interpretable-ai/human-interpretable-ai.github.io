@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-All times below are in Central European Summer Time (CEST).
-
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
@@ -58,7 +56,7 @@ All times below are in Central European Summer Time (CEST).
         <tr>
           <td>11:40 AM - 12:20 PM</td>
           <td>
-            <b>[Keynote Talk]</b> "<i>Taking the Genie Out of the Bottle: Concept-Based Insights for AI Oversight</i>" - <a href="https://sites.google.com/view/sonali-parbhoo/home">Sonali Parbhoo</a>
+            <b>[Keynote Talk]</b> "<i>Taking the Genie Out of the Bottle(neck): Concept-Based Insights for AI Oversight</i>" - <a href="https://sites.google.com/view/sonali-parbhoo/home">Sonali Parbhoo</a>
           </td>
         </tr>
         <tr>
