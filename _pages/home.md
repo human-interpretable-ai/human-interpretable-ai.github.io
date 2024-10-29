@@ -157,7 +157,7 @@ Notice that you <b>do not need to submit a paper to attend our workshop</b>!
     </div>
 </div>
 
-## Organizers
+## General Chairs
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Gabriele Ciravegna" affiliation=" Politecnico di Torino" url="https://dbdmg.polito.it/dbdmg_web/gabriele-ciravegna/" img="/assets/img/people/gabriele.jpeg" %}
